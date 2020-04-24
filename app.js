@@ -398,9 +398,6 @@ function split() {
             $('#dCard1').text(`${dHand[1]}`);
             dPlay();
         };
-        if(p1Total == 21) {
-            playSplit();
-        };
     };
 };
 
